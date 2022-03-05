@@ -1,0 +1,17 @@
+export const SET_ERRORS = "SET_ERRORS";
+
+export const SET_CURRENT_USER = "SET_CURRENT_USER";
+
+export const UPDATE_USER = "UPDATE_USER";
+
+export const FETCH_ARTICLES = "FETCH_ARTICLES";
+export const  FETCH_FAVORITE_ARTICLES = "FETCH_FAVORITE_ARTICLES";
+
+export const GET_ARTICLE = "GET_ARTICLE";
+
+export const CLEAR_INFO_MESSAGE = "CLEAR_INFO_MESSAGE";
+export const SET_INFO_MESSAGE = "SET_INFO_MESSAGE";
+
+export const GET_PROFILE = "GET_PROFILE";
+
+export const FETCH_REPLAYS = "FETCH_REPLAYS";
